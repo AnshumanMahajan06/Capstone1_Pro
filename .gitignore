@@ -1,0 +1,58 @@
+# Node.js (React)
+node_modules/
+build/
+dist/
+.cache/
+.npm/
+.yarn/
+.vscode/
+.env
+.env.local
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Spring Boot (Java)
+target/
+bin/
+*.log
+*.war
+*.jar
+!src/main/resources/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+target/
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+build/
+out/
+*.class
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+
